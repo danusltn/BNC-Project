@@ -1,2 +1,1 @@
-# BNC-Project
-BNC project tech
+# BNC-Tech-Project
